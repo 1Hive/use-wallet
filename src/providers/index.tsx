@@ -40,12 +40,12 @@ const PROVIDERS = new Map<string, Provider>(
       },
     },
     {
-      id: 'portis',
-      name: 'Portis',
+      id: 'torus',
+      name: 'Torus',
       type: 'Any',
-      image: `${BASE_URL}/Portis.svg`,
+      image: 'https://raw.githubusercontent.com/0xGabi/assets/main/Torus.svg',
       strings: {
-        'your Ethereum wallet': 'Portis',
+        'your Ethereum wallet': 'Torus',
       },
     },
     {
