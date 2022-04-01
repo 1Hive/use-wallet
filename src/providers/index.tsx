@@ -1,8 +1,8 @@
-import metamask from './icons/metamask.svg'
-import walletconnect from './icons/walletconnect.svg'
+import metamask from './icons/metamask.png'
+import walletconnect from './icons/walletconnect.png'
 import frame from './icons/frame.png'
-import portis from './icons/Portis.svg'
-import wallet from './icons/wallet.svg'
+import portis from './icons/portis.png'
+import wallet from './icons/wallet.png'
 
 import { Provider } from '../types'
 
